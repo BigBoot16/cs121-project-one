@@ -1,6 +1,6 @@
 # Hello! My name is Brayden!
 
-Fun things about me:\
+##Fun things about me:
 - I have participated in a **game jam**!
 - I enjoy speedrunning games!
 - I like making comics!
